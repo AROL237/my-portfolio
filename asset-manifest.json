@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.86fc218d.css",
+    "main.js": "/my-portfolio/static/js/main.cb9bb830.js",
+    "static/js/787.1f11dfe9.chunk.js": "/my-portfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/react.png": "/my-portfolio/static/media/react.e3c4d28a8f7c5cce174e.png",
+    "static/media/html-css-javascript-lg.jpg": "/my-portfolio/static/media/html-css-javascript-lg.91568b1416dddce7652e.jpg",
+    "static/media/mongodb.png": "/my-portfolio/static/media/mongodb.4b8fedef190dbe47e957.png",
+    "static/media/Spring_framework.png": "/my-portfolio/static/media/Spring_framework.d4d6b89e9dc470dd1ce9.png",
+    "static/media/thumb2-orange-abstract-lines-4k-artwork-gray-backgrounds-motion-concepts.jpg": "/my-portfolio/static/media/thumb2-orange-abstract-lines-4k-artwork-gray-backgrounds-motion-concepts.1a33f6a4e310c4732114.jpg",
+    "static/media/mysql-1.jpg": "/my-portfolio/static/media/mysql-1.fa5adf362111490d2a92.jpg",
+    "static/media/hibernate.png": "/my-portfolio/static/media/hibernate.66327b8cdc13b808435c.png",
+    "static/media/agile_model.jpg": "/my-portfolio/static/media/agile_model.6cba6b58cb52eb9aadaf.jpg",
+    "static/media/GitHun-Logo.png": "/my-portfolio/static/media/GitHun-Logo.9913e4d80968fcc6081d.png",
+    "static/media/java_image.png": "/my-portfolio/static/media/java_image.808a13837c428490a46f.png",
+    "static/media/java-script.jpg": "/my-portfolio/static/media/java-script.91b6e0577d076ca8d424.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.86fc218d.css.map": "/my-portfolio/static/css/main.86fc218d.css.map",
+    "main.cb9bb830.js.map": "/my-portfolio/static/js/main.cb9bb830.js.map",
+    "787.1f11dfe9.chunk.js.map": "/my-portfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86fc218d.css",
+    "static/js/main.cb9bb830.js"
+  ]
+}
